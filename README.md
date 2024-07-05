@@ -12,9 +12,9 @@ Calculate the monthly repayment amount for a home loan based on the principal am
 
 # Requirements
 
-Python 3.x
+- **Python 3.x**
 
-math module (standard library)
+- **math module (standard library)**
 
 # Usage
  **Clone the repository**:
