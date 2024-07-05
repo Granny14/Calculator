@@ -1,6 +1,6 @@
 # Financial Calculator
 
-This Python project provides two financial calculators: an investment calculator and a home loan repayment calculator.
+- **This Python project provides two financial calculators: an investment calculator and a home loan repayment calculator.**
 
 # Features
 
@@ -27,4 +27,4 @@ Calculate the monthly repayment amount for a home loan based on the principal am
 python finance_calculators.py
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **This project is licensed under the MIT License - see the LICENSE file for details.**
