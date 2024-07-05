@@ -17,6 +17,7 @@ math module (standard library)
 # Usage
  **Clone the repository**:
 [git clone https://github.com/your_username/financial-calculator.git](https://github.com/Granny14/Calculator.git)
+
 cd financial-calculator
 
 - **Run the program**:
