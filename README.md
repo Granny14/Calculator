@@ -17,7 +17,7 @@
 
 # To run this project, you need:
 
-_ **Python 3.x: Python is a programming language. You can download it from the official Python website.**
+- **Python 3.x: Python is a programming language. You can download it from the official Python website.**
 - **math module: This is a standard library in Python, so you don't need to install anything extra.**
   
 # Usage
