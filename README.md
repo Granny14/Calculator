@@ -38,6 +38,11 @@
 # Follow the on-screen instructions to use the calculators.
 
 #Screenshots
+![Screenshot (13)](https://github.com/Granny14/Calculator/assets/142394683/b2a5fd4c-e858-4abc-93a2-7c54de1af51e)
+
+
+
+![Screenshot (14)](https://github.com/Granny14/Calculator/assets/142394683/fd2f40d2-32db-4e9c-bc91-0fee207c2d5f)
 
 # License
 
