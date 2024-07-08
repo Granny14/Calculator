@@ -33,8 +33,7 @@ _ **Python 3.x: Python is a programming language. You can download it from the o
 # cd Calculator
 - **Step 3: Run the Program**
 - **Now, you can run the program by typing:**
-
-# python finance_calculators.py
+- **python finance_calculators.py**
 
 # Follow the on-screen instructions to use the calculators.
 
