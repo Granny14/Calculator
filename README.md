@@ -38,6 +38,9 @@
 
 Screenshots
 
+![Screenshot (13)](https://github.com/Granny14/Calculator/assets/142394683/9ec28c2c-b5e8-4a36-b0aa-03fdab7a3873)
+
+![Screenshot (14)](https://github.com/Granny14/Calculator/assets/142394683/5304ac59-a5ab-4fa9-9512-04e68516fb02)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
